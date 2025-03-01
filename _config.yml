@@ -28,4 +28,4 @@ defaults:
         show_tags: true
         show_categories: true
 
-theme: Architect
+theme: jekyll-theme-architect
