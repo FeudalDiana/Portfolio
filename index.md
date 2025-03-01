@@ -1,14 +1,13 @@
 Began developing on Roblox in 2016, professionally since 2018.
 
 ## Westeros World
-**Lead Engineer Dec 2021 - May 2024**
-
-**Gameplay Engineer Jun 2021 - Dec 2021**
+**Lead Engineer | Dec 2021 - May 2024** <br/>
+**Gameplay Engineer | Jun 2021 - Dec 2021**
 
 Medieval Roleplay game featuring fighting and resource management mechanics. Led the development team during the time and responsible for overlooking the direction of the game and implementing new mechanics.
-<div style="display:flex; gap:4em">
-    <img src="https://github.com/user-attachments/assets/6c0d044e-8e95-49d6-85e5-fadf59fb0458" style="width:30em" >
-    <img src="https://github.com/user-attachments/assets/467ca431-6736-439e-8063-f55f80c9d376" style="width:30em" >
+<div style="display: flex; gap: 1em; justify-content: center; magin-bottom: 1em">
+    <img src="https://github.com/user-attachments/assets/6c0d044e-8e95-49d6-85e5-fadf59fb0458" style="width:20em" >
+    <img src="https://github.com/user-attachments/assets/467ca431-6736-439e-8063-f55f80c9d376" style="width:20em" >
 </div>
 
 ### Viking Sagas
