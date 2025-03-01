@@ -1,4 +1,3 @@
-# Diana McRae: Gameplay Engineer Portfolio
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et lobortis quam. Morbi sed cursus quam, vel egestas diam. Proin vestibulum ante at tellus porta, iaculis fringilla arcu venenatis. Sed sodales lacus dignissim enim rutrum laoreet. Praesent vulputate commodo ex, id sagittis magna pharetra commodo. Cras in euismod neque. Aenean eget tortor ex. Praesent eget elementum orci.
 
 ## Cras laoreet
