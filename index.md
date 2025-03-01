@@ -30,7 +30,7 @@ Responsible for aiding the starting up of the group and the creating of new inno
 <div style="display: flex; gap: 1em; justify-content: center; margin-bottom: 1em; flex-wrap: wrap">
     <img src="https://github.com/user-attachments/assets/b10ba64c-0d06-4811-b8c5-7d5c0ba478fc" style="width:18em; max-width: 40vw; object-fit: contain" >
     <img src="https://github.com/user-attachments/assets/5ad58dd7-9279-4402-af25-28784bebea8b" style="width:18em; max-width: 40vw; object-fit: contain" >
-    <img src="https://github.com/user-attachments/assets/f0c26acc-d912-4942-8afe-7931e5d8f068" style="width:18em; max-width: 40vw; object-fit: contain" >
+    <img src="https://github.com/user-attachments/assets/e5f07c05-854b-49c2-8c24-b1b180ad0b08" style="width:18em; max-width: 40vw; object-fit: contain" >
 </div>
 
 ## King's Landing
