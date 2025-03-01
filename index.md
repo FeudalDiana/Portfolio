@@ -1,5 +1,7 @@
 Began developing on Roblox in 2016, professionally since 2018.
 
+---
+
 ## Westeros World
 <div style="display: flex">
     <strong>Lead Engineer</strong>
@@ -18,6 +20,8 @@ Medieval Roleplay game featuring fighting and resource management mechanics. Led
     <img src="https://github.com/user-attachments/assets/467ca431-6736-439e-8063-f55f80c9d376" style="width:18em; max-width: 40vw; object-fit: contain" >
 </div>
 
+---
+
 ## Viking Sagas
 <div style="display: flex">
     <strong>Lead Engineer</strong>
@@ -32,6 +36,8 @@ Responsible for aiding the starting up of the group and the creating of new inno
     <img src="https://github.com/user-attachments/assets/5ad58dd7-9279-4402-af25-28784bebea8b" style="width:18em; max-width: 40vw; object-fit: contain" >
     <img src="https://github.com/user-attachments/assets/e5f07c05-854b-49c2-8c24-b1b180ad0b08" style="width:18em; max-width: 40vw; object-fit: contain" >
 </div>
+
+---
 
 ## King's Landing
 <div style="display: flex">
