@@ -19,15 +19,26 @@ Medieval Roleplay game featuring fighting and resource management mechanics. Led
 </div>
 
 ## Viking Sagas
-**Lead Engineer | Dec 2021 - May 2024** <br/>
-**Gameplay Engineer | Jun 2021 - Dec 2021**
+<div style="display: flex">
+    <strong>Lead Engineer</strong>
+    <span style="flex-grow: 1; min-width: 1em"></span>
+    <em>Jan 2022 - May 2022</em>
+</div>
 
 Inspired from the historical mythical Viking Sagas. <br/>
 Responsible for aiding the starting up of the group and the creating of new innovative systems it uses to operate. Leading the direction of the games and community.
 
 ## King's Landing
-**Lead Engineer | Jul - May 2024** <br/>
-**Gameplay Engineer | Oct 2018 - Feb 2019**
+<div style="display: flex">
+    <strong>Lead Engineer</strong>
+    <span style="flex-grow: 1; min-width: 1em"></span>
+    <em>Jul 2020 - Jun 2021</em>
+</div>
+<div style="display: flex">
+    <strong>Gameplay Engineer</strong>
+    <span style="flex-grow: 1; min-width: 1em"></span>
+    <em>Oct 2018 - Feb 2019</em>
+</div>
 
 Inspired from the historical mythical Viking Sagas. <br/>
 Responsible for aiding the starting up of the group and the creating of new innovative systems it uses to operate. Leading the direction of the games and community.
