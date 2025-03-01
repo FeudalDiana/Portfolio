@@ -27,3 +27,5 @@ defaults:
         reading_time: true
         show_tags: true
         show_categories: true
+
+theme: Architect
