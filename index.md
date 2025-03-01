@@ -1,8 +1,11 @@
-Began developing on Roblox in 2016, professionally since 2018.
+### Roblox Developer | Gameplay Engineer
+
+Hi, I'm Diana. I began developing on Roblox in 2016, professionally since 2018. Working across a range of different experiences. <br/>
+Extensive experience with working on roleplay games and competitive combat systems.
 
 ---
 
-### Westeros World
+## Westeros World
 <div style="display: flex">
     <strong>Lead Engineer</strong>
     <span style="flex-grow: 1; min-width: 1em"></span>
@@ -22,7 +25,7 @@ Medieval Roleplay game featuring fighting and resource management mechanics. Led
 
 ---
 
-### Viking Sagas
+## Viking Sagas
 <div style="display: flex">
     <strong>Lead Engineer</strong>
     <span style="flex-grow: 1; min-width: 1em"></span>
@@ -39,7 +42,7 @@ Responsible for aiding the starting up of the group and the creating of new inno
 
 ---
 
-### King's Landing
+## King's Landing
 <div style="display: flex">
     <strong>Lead Engineer</strong>
     <span style="flex-grow: 1; min-width: 1em"></span>
