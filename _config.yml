@@ -1,5 +1,7 @@
 # Site settings
-title: "Diana McRae's Portfolio"
+title: "Diana McRae"
+description: "Gameplay Engineer"
+
 email: diana0mcrae@gmail.com
 
 baseurl: 'Portfolio' # the subpath of your site, e.g. /blog/
