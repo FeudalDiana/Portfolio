@@ -48,7 +48,7 @@ A medieval roleplay game centered around combat and resource management. During 
 </div>
 
 Inspired from the historical mythical Viking Sagas. <br/>
-Played a key role in establishing the group and the creating of new innovative systems to support its experiences.
+Played a key role in establishing the group and the creation of new innovative systems to support its experiences.
 
 #### Notable contributions include:
 - Developed a new combat system featuring complex animations, networking and exploit prevention.
