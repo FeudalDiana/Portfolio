@@ -118,5 +118,7 @@ h3, h4 {
       object-fit: contain;
       max-width: 90% !important;
       max-height: 90%;
+      box-shadow: 0 0 50px #000d;
+      border-radius: 0.5em;
    }
 }
