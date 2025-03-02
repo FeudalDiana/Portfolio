@@ -116,7 +116,7 @@ h3, h4 {
 
    & > img {
       object-fit: contain;
-      max-width: 90vw;
-      max-height: 90vw;
+      max-width: 90% !important;
+      max-height: 90%;
    }
 }
