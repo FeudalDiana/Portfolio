@@ -34,3 +34,37 @@
     min-width: 1em;
   }
 }
+
+body {
+   text-shadow: unset;
+   background: unset;
+}
+#container {
+   background: unset;
+   background-color: #121212;
+   color: #d9d9d9;
+}
+header h1 {
+   color: #fff;
+   letter-spacing: unset;
+}
+h2 {
+   color: #fff;
+   letter-spacing: unset;
+}
+hr {
+   height: 1px;
+   padding-bottom: unset;
+   opacity: 0.5;
+   background: linear-gradient(to right, #fff0, #fff, #fff0);
+}
+footer {
+   overflow: hidden;
+   height: 0;
+   padding: 0;
+}
+ul li {
+   margin-left: 1.5em;
+   padding-left: 0.25em;
+   padding-right: 1em;
+}
