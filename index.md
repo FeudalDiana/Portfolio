@@ -78,3 +78,8 @@ Competitive medieval kingdom roleplay game where players join large, community-l
     <img src="https://github.com/user-attachments/assets/05818857-24f2-4d8e-96f7-75a0b83c0177" >
 </div>
 
+---
+
+## Contact Me
+
+If you want to get in touch you can contact me at *diana0mcrae@gmail.com* or find me over at Discord as *@FeudalDiana*
