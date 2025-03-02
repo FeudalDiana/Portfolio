@@ -1,3 +1,6 @@
+<div style="display: flex; gap: 1em; justify-content: center; margin-bottom: 1em; flex-wrap: wrap">
+    <img src="https://github.com/user-attachments/assets/d72bb18e-6730-4de9-b897-7088cd1c1dbc" style="width:18em; max-width: 20vw; object-fit: contain" >
+</div>
 ### Roblox Developer | Gameplay Engineer
 
 Hi, I'm Diana, also known as *FeudalDiana*. I started developing on Roblox in 2016 and have been working professionally since 2018, contributing to a variety of experiences. I specialize in roleplay games and have extensive expertise in designing competitive combat systems.
