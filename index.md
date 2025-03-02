@@ -69,7 +69,10 @@ Responsible for aiding the starting up of the group and the creating of new inno
     <em>Oct 2018 - Feb 2019</em>
 </div>
 
-Competitive medieval kingdom roleplay game. <br/>
+Competitive medieval kingdom roleplay game where players join large, community-led factions to compete for the prestigious crown in the game, granting control over the city.
+#### Notable contributions include:
+- In-depth battleground system allowing users to customize maps, spawn locations, weapon selection, and score and round settings.
+- Overhauled the weapon system to introduce weapon stamina, allowing for parrying and dashing mechanics.
 
 <div class="image-group">
     <img src="https://github.com/user-attachments/assets/05818857-24f2-4d8e-96f7-75a0b83c0177" >
