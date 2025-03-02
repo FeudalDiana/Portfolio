@@ -82,4 +82,4 @@ Competitive medieval kingdom roleplay game where players join large, community-l
 
 ## Contact Me
 
-If you want to get in touch you can contact me at [*diana0mcrae@gmail.com*](mailto:diana0mcrae@gmail.com) or find me over at Discord as [*@FeudalDiana*](https://discord.com/users/970120357262548993)
+If you want to get in touch you can contact me at [*diana0mcrae@gmail.com*](mailto:diana0mcrae@gmail.com) or find me over at Discord [*@FeudalDiana*](https://discord.com/users/970120357262548993)
