@@ -35,6 +35,7 @@ A medieval roleplay game centered around combat and resource management. During 
 
 <div class="yt-embed">
     <iframe src="https://www.youtube.com/embed/PbyfpXBeaj4?si=NXKOAcXm6mQJSZ97&amp;clip=UgkxywMXTc4rVy_AZDR5-e9qxhYwlRrUEG23&amp;clipt=EPiwXRifk2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <div>Footage of a combat in separate battleground game in which factions battle one another.</div>
 </div>
 
 ---
