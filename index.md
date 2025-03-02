@@ -43,11 +43,11 @@ A medieval roleplay game centered around combat and resource management. During 
 </div>
 
 Inspired from the historical mythical Viking Sagas. <br/>
-Responsible for aiding the starting up of the group and the creating of new innovative systems it uses to operate. Leading the direction of the games and community.
+Played a key role in establishing the group and the creating of new innovative systems to support its experiences.
 
 #### Notable contributions include:
-- Setting up a new combat system involving complex animations, networking and exploit prevention.
-- Making core systems such as the datastore, inventory and economy.
+- Developed a new combat system featuring complex animations, networking and exploit prevention.
+- Built core systems such as the datastore, inventory and economy.
   
 <div class="image-group">
     <img src="https://github.com/user-attachments/assets/b10ba64c-0d06-4811-b8c5-7d5c0ba478fc" >
