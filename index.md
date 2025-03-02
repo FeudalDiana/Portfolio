@@ -34,8 +34,9 @@ Developed
 
 Inspired from the historical mythical Viking Sagas. <br/>
 Responsible for aiding the starting up of the group and the creating of new innovative systems it uses to operate. Leading the direction of the games and community. <br/>
-**Notable contriubutions included:**
+**Notable contriubutions include:**
 - Setting up a new combat system involving complex animations, networking and exploit prevention.
+- Making core systems such as the datastore, inventory and economy.
   
 <div style="display: flex; gap: 1em; justify-content: center; margin-bottom: 1em; flex-wrap: wrap">
     <img src="https://github.com/user-attachments/assets/b10ba64c-0d06-4811-b8c5-7d5c0ba478fc" style="width:18em; max-width: 40vw; object-fit: contain" >
