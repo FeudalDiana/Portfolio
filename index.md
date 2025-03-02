@@ -24,7 +24,7 @@ A medieval roleplay game centered around combat and resource management. During 
 
 #### Notable contributions include:
 - Horse riding system for map traversal.
-- Group based capture-point systemwhere players battle for control of castles and villages.
+- Group based capture-point system where players battle for control of castles and villages.
 - Mini-map system to help players find their way around the map and find their friends.
 - Full rework of the sword combat system, prioritizing exploit prevention and latency reduction to improve accessibility for players in different regions.
 
