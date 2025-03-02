@@ -5,6 +5,16 @@
 
 #downloads { display: none; }
 
+.yt-embed {
+   display: flex;
+   justify-content: center;
+
+   & > iframe {
+      aspect-ratio: 16 / 9;
+      width: 100%;
+      max-width: 30em;
+   }
+}
 .profile {
    width: 128px;
    float: right;
