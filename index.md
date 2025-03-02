@@ -19,9 +19,9 @@ Hi, I'm Diana, also known as *FeudalDiana*. I started developing on Roblox in 20
 A medieval roleplay game centered around combat and resource management. During my time on the project, I led the development team, overseeing the game's direction and introducing new features.
 
 **Notable contributions include:**
-- Horse riding system for map traversal
-- Group based capture-point systemwhere players battle for control of castles and villages.
-- Mini-map system to help players find their way around the map and find their friends.
+- Horse riding system for map traversal;
+- Group based capture-point systemwhere players battle for control of castles and villages;
+- Mini-map system to help players find their way around the map and find their friends;
 - Full rework of the sword combat system, prioritizing exploit prevention and latency reduction to improve accessibility for players in different regions.
 
 <div style="display: flex; gap: 1em; justify-content: center; margin-bottom: 1em; flex-wrap: wrap">
@@ -42,7 +42,7 @@ Inspired from the historical mythical Viking Sagas. <br/>
 Responsible for aiding the starting up of the group and the creating of new innovative systems it uses to operate. Leading the direction of the games and community.
 
 **Notable contributions include:**
-- Setting up a new combat system involving complex animations, networking and exploit prevention.
+- Setting up a new combat system involving complex animations, networking and exploit prevention;
 - Making core systems such as the datastore, inventory and economy.
   
 <div style="display: flex; gap: 1em; justify-content: center; margin-bottom: 1em; flex-wrap: wrap">
