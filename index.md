@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/d72bb18e-6730-4de9-b897-7088cd1c1dbc" class="profile">
 
-<h3>Diana McRae | Gameplay Engineer</h3>
+<h3>Diana McRae – Gameplay Engineer</h3>
 
 Hi, I'm Diana, also known as [*FeudalDiana*](https://www.roblox.com/users/17443035/profile). I started developing on Roblox in 2016 and have been working professionally since 2018, shaping a range of experiences. I specialize in roleplay games and have extensive expertise in designing competitive combat systems.
 
