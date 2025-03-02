@@ -1,6 +1,6 @@
 ### Roblox Developer | Gameplay Engineer
 
-Hi, I'm Diana. I began developing on Roblox in 2016, professionally since 2018, working across a range of different experiences. I have extensive experience with working on roleplay games on the platform and designing competitive combat systems.
+Hi, I'm Diana, also known as *FeudalDiana*. I started developing on Roblox in 2016 and have been working professionally since 2018, contributing to a variety of experiences. I specialize in roleplay games and have extensive expertise in designing competitive combat systems.
 
 ---
 
