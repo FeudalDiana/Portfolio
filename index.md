@@ -1,5 +1,5 @@
 <div style="display: flex; gap: 1em; justify-content: center; margin-bottom: 1em; flex-wrap: wrap">
-    <img src="https://github.com/user-attachments/assets/d72bb18e-6730-4de9-b897-7088cd1c1dbc" style="width:18em; max-width: 20vw; object-fit: contain" >
+    <img src="https://github.com/user-attachments/assets/d72bb18e-6730-4de9-b897-7088cd1c1dbc" style="width:18em; max-width: 10vw; object-fit: contain" >
 </div>
 ### Roblox Developer | Gameplay Engineer
 
