@@ -113,6 +113,7 @@ h3, h4 {
    cursor: pointer;
    transition: 125ms opacity ease-out;
    opacity: 0;
+   display: none;
 
    & > img {
       object-fit: contain;
