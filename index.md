@@ -19,10 +19,10 @@ Hi, I'm Diana, also known as *FeudalDiana*. I started developing on Roblox in 20
 Medieval Roleplay game featuring fighting and resource management mechanics. Led the development team during the time and responsible for overlooking the direction of the game and implementing new mechanics.
 
 **Notable contributions include:**
-- Horse riding to travel around the map.
-- Group capture-point system which involved groups of players capturing and fighting over control for castles/villages.
+- Horse riding system for map traversal
+- Group based capture-point systemwhere players battle for control of castles and villages.
 - Mini-map system to help players find their way around the map and find their friends.
-- Massive sword combat system re-write with emphasis on exploit prevention and decreasing latency.
+- Full rework of the sword combat system, prioritizing exploit prevention and latency reduction to improve accessibility for players in different regions.
 
 <div style="display: flex; gap: 1em; justify-content: center; margin-bottom: 1em; flex-wrap: wrap">
     <img src="https://github.com/user-attachments/assets/6c0d044e-8e95-49d6-85e5-fadf59fb0458" style="width:18em; max-width: 40vw; object-fit: contain" >
