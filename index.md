@@ -2,7 +2,7 @@
 
 <h3>Diana McRae | Gameplay Engineer</h3>
 
-Hi, I'm Diana, also known as [*FeudalDiana*](https://www.roblox.com/users/17443035/profile). I started developing on Roblox in 2016 and have been working professionally since 2018, contributing to a variety of experiences. I specialize in roleplay games and have extensive expertise in designing competitive combat systems.
+Hi, I'm Diana, also known as [*FeudalDiana*](https://www.roblox.com/users/17443035/profile). I started developing on Roblox in 2016 and have been working professionally since 2018, shaping a range of experiences. I specialize in roleplay games and have extensive expertise in designing competitive combat systems.
 
 <div style="clear:both"></div>
 
