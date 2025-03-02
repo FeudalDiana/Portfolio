@@ -90,7 +90,7 @@ Competitive medieval kingdom roleplay game where players join large, community-l
 If you want to get in touch you can contact me at [*diana0mcrae@gmail.com*](mailto:diana0mcrae@gmail.com) or find me over at Discord [@FeudalDiana](https://discord.com/users/970120357262548993)
 
 
-<div id="lightbox"><a target="_blank"><img></img></div>
+<div id="lightbox"><a target="_blank"><img></a></div>
 <script type="text/javascript">
     const lightbox = document.getElementById("lightbox");
     let timeout = null;
