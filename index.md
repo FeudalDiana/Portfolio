@@ -1,4 +1,4 @@
-### Roblox Developer | Gameplay Engineer
+### Diana McRae, Gameplay Engineer
 <img src="https://github.com/user-attachments/assets/d72bb18e-6730-4de9-b897-7088cd1c1dbc" style="
     width: 128px;
     float: right;
