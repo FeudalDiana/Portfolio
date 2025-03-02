@@ -33,7 +33,8 @@ Developed
 </div>
 
 Inspired from the historical mythical Viking Sagas. <br/>
-Responsible for aiding the starting up of the group and the creating of new innovative systems it uses to operate. Leading the direction of the games and community. Notable contriubutions included:
+Responsible for aiding the starting up of the group and the creating of new innovative systems it uses to operate. Leading the direction of the games and community. <br/>
+**Notable contriubutions included:**
 - Setting up a new combat system involving complex animations, networking and exploit prevention.
   
 <div style="display: flex; gap: 1em; justify-content: center; margin-bottom: 1em; flex-wrap: wrap">
