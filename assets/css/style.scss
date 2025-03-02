@@ -114,13 +114,9 @@ h3, h4 {
    transition: 125ms opacity ease-out;
    opacity: 0;
 
-   & > a {
-      line-height: 0;
-
-      & > img {
-         object-fit: contain;
-         max-width: 90vw;
-         max-height: 90vw;
-      }
+   & > img {
+      object-fit: contain;
+      max-width: 90vw;
+      max-height: 90vw;
    }
 }
