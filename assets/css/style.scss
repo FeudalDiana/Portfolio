@@ -7,7 +7,8 @@
 
 .yt-embed {
    display: flex;
-   justify-content: center;
+   flex-direction: column;
+   align-items: center;
 
    & > iframe {
       aspect-ratio: 16 / 9;
