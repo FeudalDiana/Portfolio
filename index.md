@@ -33,6 +33,10 @@ A medieval roleplay game centered around combat and resource management. During 
     <img src="https://github.com/user-attachments/assets/467ca431-6736-439e-8063-f55f80c9d376" >
 </div>
 
+<div class="yt-embed">
+    <iframe src="https://www.youtube.com/embed/b-5TIqokoOc?si=wlDI6lWLAhRprCLz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## Viking Sagas
