@@ -88,3 +88,34 @@ Competitive medieval kingdom roleplay game where players join large, community-l
 ## Contact Me
 
 If you want to get in touch you can contact me at [*diana0mcrae@gmail.com*](mailto:diana0mcrae@gmail.com) or find me over at Discord [@FeudalDiana](https://discord.com/users/970120357262548993)
+
+
+<div id="lightbox"><a target="_blank"><img></img></div>
+<script type="text/javascript">
+    const lightbox = document.getElementById("lightbox");
+    let timeout = null;
+    for (img of document.querySelectorAll("img")) {
+        if (img == lightbox.children[0].children[0]) { continue; }
+        img.addEventListener("click", (e) => {            
+            e.preventDefault();
+            e.stopPropagation();
+            if (timeout) cancelTimeout(timeout);
+            console.log(e.target.src)
+            lightbox.children[0].href = e.target.src;
+            lightbox.children[0].children[0].src = e.target.src;
+            lightbox.style.display = "flex";
+            setTimeout(() => { lightbox.style.opacity = 1; }, 10)
+        })
+    }
+    lightbox.addEventListener("click", (e) => {
+        if (e.target != lightbox) return;
+        e.preventDefault();
+        e.stopPropagation();
+        lightbox.style.opacity = 0;
+        if (timeout) cancelTimeout(timeout);
+        timeout = setTimeout(() => {
+            timeout = null;
+            lightbox.style.display = "none";
+        }, 125)
+    })
+</script>
