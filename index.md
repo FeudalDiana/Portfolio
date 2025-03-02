@@ -16,7 +16,7 @@ Hi, I'm Diana, also known as *FeudalDiana*. I started developing on Roblox in 20
     <em>Jun 2021 - Dec 2021</em>
 </div>
 
-Medieval Roleplay game featuring fighting and resource management mechanics. Led the development team during the time and responsible for overlooking the direction of the game and implementing new mechanics.
+A medieval roleplay game centered around combat and resource management. During my time on the project, I led the development team, overseeing the game's direction and introducing new features.
 
 **Notable contributions include:**
 - Horse riding system for map traversal
