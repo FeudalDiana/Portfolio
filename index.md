@@ -32,6 +32,7 @@ A medieval roleplay game focused on combat and resource management. I was initia
 <div class="image-group">
     <img src="https://github.com/user-attachments/assets/6c0d044e-8e95-49d6-85e5-fadf59fb0458" >
     <img src="https://github.com/user-attachments/assets/467ca431-6736-439e-8063-f55f80c9d376" >
+    <img src="https://github.com/user-attachments/assets/65b27d73-a137-4a61-8c04-b286b6f7e0a3" >
 </div>
 
 <div class="yt-embed">
