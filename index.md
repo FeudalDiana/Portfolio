@@ -8,6 +8,29 @@ Hi, I'm Diana, also known as [*FeudalDiana*](https://www.roblox.com/users/174430
 
 ---
 
+## Novaly Studios
+<div class="cv-entry">
+    <strong>Gameplay Engineer</strong>
+    <span></span>
+    <em>Apr 2025 - Present</em>
+</div>
+
+Mainly contributing in their flagship Roblox MMO title "Dragon Souls", an open world anime style action MMO with cinematic combat, dynamic transformations and deep RPG progression. Respoonsible for conceiving, designing and implementing new questlines and quest mechanics, working closesly with cross-functional teams, including engineers and designers.
+
+#### Notable contributions include:
+- Implementing new questline mechanic "Time Rifts" - a portal you can enter and teleport to an alternative timeline to complete quests and fight bosses
+- Working alongside other engineers on "Chapter 2" update with a whole new world and storyline
+- Creating several questlines for players to enjoy
+
+<div class="image-group">
+    <img src="https://github.com/user-attachments/assets/b76cd821-06b2-48dd-83a5-2a23610ac6d9" >
+    <img src="https://github.com/user-attachments/assets/c06aec6a-3627-4dee-aa4a-34f5e67a2afb" >
+    <img src="https://github.com/user-attachments/assets/c66ac7a3-afe0-45d6-b221-ed35afb41db3" >
+</div>
+
+
+---
+
 ## Westeros World
 <div class="cv-entry">
     <strong>Lead Engineer</strong>
