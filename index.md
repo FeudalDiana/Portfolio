@@ -28,6 +28,10 @@ Mainly contributing in their flagship Roblox MMO title "Dragon Souls", an open w
     <img src="https://github.com/user-attachments/assets/c66ac7a3-afe0-45d6-b221-ed35afb41db3" >
 </div>
 
+<div class="yt-embed">
+    <iframe src="https://www.youtube.com/embed/qDwkzoglbRM?si=wCDEdfgQRVHuJbBi&amp;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <div>Community video regarding the major time rift update I worked on.</div>
+</div>
 
 ---
 
@@ -59,10 +63,9 @@ A medieval roleplay game focused on combat and resource management. I was initia
 </div>
 
 <div class="yt-embed">
-    <iframe src="https://www.youtube.com/embed/qDwkzoglbRM?si=wCDEdfgQRVHuJbBi&amp;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <div>Community video regarding the major time rift update I worked on.</div>
+<iframe src="https://www.youtube.com/embed/PbyfpXBeaj4?si=NXKOAcXm6mQJSZ97&amp;clip=UgkxywMXTc4rVy_AZDR5-e9qxhYwlRrUEG23&amp;clipt=EPiwXRifk2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <div>Footage of a combat in separate battleground game in which factions battle one another.</div>
 </div>
-
 ---
 
 ## Viking Sagas
