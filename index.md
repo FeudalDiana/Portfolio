@@ -2,20 +2,36 @@
 
 <h3>Diana McRae – Gameplay Engineer</h3>
 
-Hi, I'm Diana, also known as [*FeudalDiana*](https://www.roblox.com/users/17443035/profile). I’m a passionate Gameplay Engineer with deep expertise in Luau, with a strong focus on crafting engaging player experiences. I started developing on Roblox in 2016 and have been working professionally since 2018, shaping a range of experiences. I specialize in roleplay games and have extensive expertise in designing competitive combat systems.
+Hi, I'm Diana, also known as [*FeudalDiana*](https://www.roblox.com/users/17443035/profile). I’m a Gameplay Engineer with a passion for building immersive and memorable Roblox games. Since starting my journey in 2016, I’ve been turning ideas into experiences that players love, using my deep expertise in Luau to create polished, player-focused experiences.
 
 <div style="clear:both"></div>
 
 ---
 
+## Preloaded
+<div class="cv-entry">
+    <strong>Lead Developer</strong>
+    <span></span>
+    <em>Jul 2025 - Present</em>
+</div>
+
+Serving as Lead Developer for the studio’s Roblox project, I worked closely with production, game design, and art teams to guide development and ensure cohesive execution across disciplines. I led a small engineering team, mentoring another developer while onboarding artists and developers from traditional game development backgrounds to the Roblox platform. In addition to my leadership responsibilities, I handled the majority of the engineering work, establishing the game’s core systems and driving the project through the prototype phase with rapid iteration and testing.
+
+#### Notable contributions include:
+- Developing and implementing core gameplay systems, establishing the project’s technical foundation
+- Leading technical direction and mentoring another developer to ensure consistent quality and efficient workflows
+- Collaborating with production and game design to plan features, refine gameplay systems, and meet project milestones
+- Rapidly prototyping gameplay mechanics to validate concepts during early development
+- Working with artists and modelers to streamline asset pipelines and optimize in-game performance
+
 ## Novaly Studios
 <div class="cv-entry">
     <strong>Gameplay Engineer</strong>
     <span></span>
-    <em>Apr 2025 - Present</em>
+    <em>Apr 2025 - Sep 2025</em>
 </div>
 
-Mainly contributing in their flagship Roblox MMO title "Dragon Souls", an open world anime style action MMO with cinematic combat, dynamic transformations and deep RPG progression. Respoonsible for conceiving, designing and implementing new questlines and quest mechanics, working closesly with cross-functional teams, including engineers and designers.
+Contributing in their flagship Roblox MMO title "Dragon Souls", an open world anime style action MMO with cinematic combat, dynamic transformations and deep RPG progression. Respoonsible for conceiving, designing and implementing new questlines and quest mechanics, working closesly with cross-functional teams, including engineers and designers.
 
 #### Notable contributions include:
 - Implementing new questline mechanic "Time Rifts" - a portal you can enter and teleport to an alternative timeline to complete quests and fight bosses
