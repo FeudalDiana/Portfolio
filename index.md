@@ -24,6 +24,8 @@ Serving as Lead Developer for the studio’s Roblox project, I worked closely wi
 - Rapidly prototyping gameplay mechanics to validate concepts during early development
 - Working with artists and modelers to streamline asset pipelines and optimize in-game performance
 
+---
+
 ## Novaly Studios
 <div class="cv-entry">
     <strong>Gameplay Engineer</strong>
